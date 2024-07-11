@@ -2,7 +2,8 @@
 
 # [Project 1: Analyzing Sales Data Using Power BI & Tablaeu]
 # Power_BI
- (https://project.novypro.com/QoM1qL)
+[<img src="https://ibb.co/Y23CCwP">](https://project.novypro.com/QoM1qL)
+
 
 # Tablaeu
  (https://public.tableau.com/views/A_InnocentProject_Sales_Dashboard/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
