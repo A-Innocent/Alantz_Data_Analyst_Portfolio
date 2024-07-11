@@ -2,7 +2,7 @@
 
 # [Project 1: Analyzing Sales Data Using Power BI & Tablaeu]
 # Power_BI
-[<img src="https://ibb.co/Y23CCwP">](https://project.novypro.com/QoM1qL)
+[<img src="https://i.ibb.co/JprQGXv/Data-Power-BI.jpg">](https://project.novypro.com/QoM1qL)
 
 
 # Tablaeu
