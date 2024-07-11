@@ -1,4 +1,4 @@
-# Alantz's Portfoilio- Click on Image For Full Project
+# Alantz's Portfoilio- Click on Image For Detailed View
 
 # Project 1: Analyzing Sales Data Using Power BI & Tablaeu
 ## Power_BI
