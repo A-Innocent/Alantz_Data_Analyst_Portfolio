@@ -9,10 +9,11 @@
 [<img src="https://i.ibb.co/k8j4Zyk/Data-Tableau.png">](https://public.tableau.com/views/A_InnocentProject_Sales_Dashboard/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-### Two projects centered around visualizing sales data by state on a dynamic and interactive choropleth map, enhancing regional sales strategy.
+### Two Projects Centered Around Visualizing Sales Data by State on A Dynamic and Interactive Choropleth Map, Enhancing Regional Sales Strategy.
 
-### Analyzing monthly sales data using filter options for time periods, aiding in trend identification.
+### Analyzing Monthly Sales Data Using Filter Options for Time Periods, Aiding in Trend Identification.
 
-### Comparing product sales by sub-category to identify trends and areas of growth, providing actionable insights for marketing strategies.
+### Comparing Product Sales by Sub-Category to Identify Trends and Areas of Growth, Providing Actionable Insights for Marketing Strategies.
+
 
 
